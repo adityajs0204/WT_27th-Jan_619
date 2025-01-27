@@ -1,0 +1,25 @@
+.heading
+{
+    padding-left: 20px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+.side
+{
+    width: 20%;
+    padding-left: 30px;
+}
+.matter
+{
+    width: 75%;
+}
+.box
+{
+    display: flex;
+}
+.above
+{
+    background-color: yellow;
+}
